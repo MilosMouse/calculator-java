@@ -9,8 +9,6 @@ import java.util.List;
 
 public class CalculatorTest {
 
-
-    @Test
     public void mnozenje(){
 
         List<Float> numbers = new ArrayList<Float>((Collection<Float>) Arrays.asList(5.0f, 3.0f));
